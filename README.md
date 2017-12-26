@@ -1,5 +1,12 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
+
+# What I Learnt
+
+I'll describe breifly the concepts I've learned through each stage as I progress through the project
+
+* Stage 1: Context, `.bind`, `this`
+http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/
 # Project Summary
 
 In this project we will take a look at an employee management application and learn how it works. We will cover the following topics, found below in the list, by going through each project stage and building out a part of the application.
