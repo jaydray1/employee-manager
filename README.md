@@ -9,7 +9,7 @@ I'll describe breifly the concepts I've learned through each stage as I progress
 http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/
 
 * Stage 2: State Changes and Receiving New Props
-- Any time we receive new data from a parent component, that is most likely being passed in through some user controlled event, think an input on a form, then React will re-render, checking for new props-data, that was passed - when these new props are passed we want to act on them, or if we know that our component will receive props, then we want to act on it. We do this using the react lifecycle hook, `componentWillReceiveProps`. When we receive those new props we want to make sure that we set our state accordingly.
+Any time we receive new data from a parent component, that is most likely being passed in through some user controlled event, think an input on a form, then React will re-render, checking for new props-data, that was passed - when these new props are passed we want to act on them, or if we know that our component will receive props, then we want to act on it. We do this using the react lifecycle hook, `componentWillReceiveProps`. When we receive those new props we want to make sure that we set our state accordingly.
 https://developmentarc.gitbooks.io/react-indepth/content/life_cycle/update/component_will_receive_props.html
 # Project Summary
 
